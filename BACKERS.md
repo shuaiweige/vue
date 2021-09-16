@@ -17,8 +17,8 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 <!--special start-->
 
 <p align="center">
-  <a href="https://autocode.com/" target="_blank">
-    <img width="260px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/autocode.svg?sanitize=true">
+  <a href="https://www.dcloud.io/hbuilderx.html?hmsr=vue-en&hmpl=&hmcu=&hmkw=&hmci=" target="_blank">
+    <img width="260px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/hbuilder.png">
   </a>
 </p>
   
@@ -65,6 +65,11 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
       <td align="center" valign="middle">
         <a href="https://nuxtjs.org/" target="_blank">
           <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/nuxt.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://www.daskeyboard.com/?utm_source=vuejs&utm_medium=sponsorship" target="_blank">
+          <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/das_keyboard.png">
         </a>
       </td>
     </tr><tr></tr>
@@ -270,7 +275,22 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
       </td>
       <td align="center" valign="middle">
         <a href="https://plaid.co.jp/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/plaid_inc_.svg?sanitize=true">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/plaid__inc_.svg?sanitize=true">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://troypoint.com" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/troypoint.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://webreinvent.com?utm_source=vuejs.org&utm_medium=logo&utm_campaign=patreon-sponsors" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/webreinvent_technologies_pvt_ltd.svg?sanitize=true">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://www.dronahq.com/?ref=github_Vuejs" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/dronahq.png">
         </a>
       </td>
     </tr><tr></tr>
@@ -328,6 +348,13 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
       <td align="center" valign="middle">
         <a href="https://betting.bet" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/betting_bet.png">
+        </a>
+      </td>
+    </tr><tr></tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://www.takt.io" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/takt.png">
         </a>
       </td>
     </tr><tr></tr>
@@ -430,15 +457,14 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 <h2 align="center">Backers via Patreon</h2>
 
 <!--10 start-->
+- Felix Mok
 - Jeffrey Rennie
-- Keisuke Kita
-- Sara McVey
+- Meinhard Dam
 - Роман Латкин
 - Alex Riviere
+- WhereJuly
 - Fontis 
 - Jack 
-- Nick Carr
-- Artur Bańka
 - Traversy Media
 - Pierre Baron
 - Donghai Gai
@@ -450,6 +476,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Zeth Odderskov
 - Thomas Wiedemann
 - Nobuhide Esaki
+- Nat Dunn
 - Roy Segall
 - Allan McKernan
 - Diana Bergholz
@@ -464,7 +491,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Yusuke Kawabata
 - Shawn Wildermuth
 - Elon Hung
-- Meinhard Dam
+- Juan Bermudez
 - Daniel Mattingley
 - Matt Sencenbaugh
 - Jaeyoung Lee
@@ -478,14 +505,11 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Joe Gregory
 - Masahiro Tanaka
 - Tyler 
-- IMGNRY 
 - Jim Raden
 - Haim Yulzari
 - Asaf Yishai
 - Jon Hobbs-Smith
-- Pierre Vanhulst
 - Zoran Knezevic
-- Luiz 
 - Bernhard E. Reiter
 - Guy Gavergun
 - Matt Jones
@@ -495,9 +519,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Wen-Tien Chang
 - Stephen Hartley
 - Victor Tolbert
-- Lars Andreas Ness
-- Benjamin Listwon
-- Juan Bermudez
+- Keisuke Kita
 <!--10 end-->
 
 <h2 align="center">Backers via OpenCollective</h2>

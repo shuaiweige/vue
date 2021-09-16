@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Vue源码剖析</title>
+    <!-- umd，带编译器 -->
+    <script src="../../dist/vue.js"></script>
+  </head>
+
+  <body>
+    <div id="demo">
+      <h1>初始化流程</h1>
+      <p>{{foo}}</p>
+    </div>
+    <script>
+      // render > template > el
+      // 创建实例
+      // 挂载：el => template => render => dom
+      const app = new Vue({
+        el: "#demo",
+        // template: '<div>template</div>',
+        // template: '#app',
+        // render(h){return h('div','render')},
+        data: { foo: "foo" },
+      });
+      console.log(app.$options.render);
+      /**
+       * new Vue()都做了什么？
+       * 1.执行_init()方法：
+       *    里面核心逻辑：
+       *      1.组件实例初始化属性，比如$children,$root，$parent...
+       *      2.处理自定义事件
+       *      3.处理插槽信息，_c(),$createElement() =>就是render(h)的h
+       *      4.最重要的是组件状态的初始化、响应式等事件（包括data，props，methods，watch，computed等响应式）
+       *      5.两个声明周期钩子的调用（beforeCreate,created）
+       *
+       */
+
+      /**
+       * 整体流程捋一捋
+       * new Vue() => _init() => $mount() => mountComponent() =>
+       * new Watcher() =>updateComponent() => render() => _update()
+       */
+    </script>
+  </body>
+</html>
